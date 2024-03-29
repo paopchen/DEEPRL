@@ -3,4 +3,8 @@ yes it is
 so hard to find a job
 chen jitong
 ???
-git branch is amazing and smart
+<<<<<<< HEAD
+git branch is amazing and fast
+=======
+git branch is amazing and fast
+>>>>>>> dev
