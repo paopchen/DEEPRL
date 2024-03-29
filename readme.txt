@@ -3,4 +3,4 @@ yes it is
 so hard to find a job
 chen jitong
 ???
-git branch is amazing 
+git branch is amazing and fast
